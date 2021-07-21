@@ -1,5 +1,11 @@
-https://app.wcproject.so-net.tw/ajax/explore/list2  派遣LIST
+/ajax/explore/list2  派遣關卡LIST
 
-https://app.wcproject.so-net.tw/ajax/explore/updatedeck  派遣組隊 //無法最優組隊
+/ajax/explore/updatedeck  派遣組隊 //無法最優組隊
 
-https://app.wcproject.so-net.tw/ajax/explore/start  派遣開始
+/ajax/explore/start  派遣開始
+
+/ajax/explore/complete  派遣等待時間結束
+
+/ajax/quest/generate   進入派遣關卡戰鬥
+
+/ajax/quest/complete   派遣關卡戰鬥完成

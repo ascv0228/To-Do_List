@@ -1,3 +1,5 @@
 https://app.wcproject.so-net.tw/ajax/city/shop-trade-list-all    //總交易所列表
 
 https://app.wcproject.so-net.tw/ajax/city/shoptradelist         //單個交易所列表詳細
+
+https://app.wcproject.so-net.tw/ajax/city/exeshoptrade          //執行交易

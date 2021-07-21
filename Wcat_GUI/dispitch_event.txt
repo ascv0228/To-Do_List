@@ -1,0 +1,5 @@
+https://app.wcproject.so-net.tw/ajax/explore/list2  派遣LIST
+
+https://app.wcproject.so-net.tw/ajax/explore/updatedeck  派遣組隊 //無法最優組隊
+
+https://app.wcproject.so-net.tw/ajax/explore/start  派遣開始

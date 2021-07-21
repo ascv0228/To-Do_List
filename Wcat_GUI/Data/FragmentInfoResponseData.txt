@@ -1,0 +1,945 @@
+{
+  "error": 0,
+  "result": {
+    "skillTree": [
+      {
+        "no": 1,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 120,
+        "posZ": 120,
+        "prevNo": 0,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 10000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            }
+          ]
+        }
+      },
+      {
+        "no": 2,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 185,
+        "posZ": 185,
+        "prevNo": 1,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 30000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700320,
+              "name": "斧之高階符文",
+              "num": 155
+            },
+            {
+              "iId": 100510,
+              "name": "青藍符文",
+              "num": 750
+            },
+            {
+              "iId": 100610,
+              "name": "紫色符文",
+              "num": 750
+            }
+          ]
+        }
+      },
+      {
+        "no": 3,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 250,
+        "posZ": 250,
+        "prevNo": 2,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 50000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700420,
+              "name": "槍之高階符文",
+              "num": 155
+            },
+            {
+              "iId": 100320,
+              "name": "黃色高階符文",
+              "num": 300
+            },
+            {
+              "iId": 100420,
+              "name": "綠色高階符文",
+              "num": 300
+            }
+          ]
+        }
+      },
+      {
+        "no": 4,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 315,
+        "posZ": 315,
+        "prevNo": 3,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 70000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700530,
+              "name": "弓之星辰符文",
+              "num": 105
+            },
+            {
+              "iId": 100130,
+              "name": "赤紅星辰符文",
+              "num": 150
+            },
+            {
+              "iId": 100230,
+              "name": "橙色星辰符文",
+              "num": 150
+            }
+          ]
+        }
+      },
+      {
+        "no": 5,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 380,
+        "posZ": 380,
+        "prevNo": 4,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 90000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700630,
+              "name": "杖之星辰符文",
+              "num": 105
+            },
+            {
+              "iId": 100130,
+              "name": "赤紅星辰符文",
+              "num": 350
+            },
+            {
+              "iId": 100230,
+              "name": "橙色星辰符文",
+              "num": 350
+            }
+          ]
+        }
+      },
+      {
+        "no": 6,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 60,
+        "posZ": 200,
+        "prevNo": 1,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 30000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700310,
+              "name": "斧之符文",
+              "num": 210
+            },
+            {
+              "iId": 100110,
+              "name": "赤紅符文",
+              "num": 250
+            },
+            {
+              "iId": 100210,
+              "name": "橙色符文",
+              "num": 250
+            }
+          ]
+        }
+      },
+      {
+        "no": 7,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 75,
+        "posZ": 260,
+        "prevNo": 6,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 50000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700510,
+              "name": "弓之符文",
+              "num": 210
+            },
+            {
+              "iId": 100310,
+              "name": "黃色符文",
+              "num": 750
+            },
+            {
+              "iId": 100410,
+              "name": "綠色符文",
+              "num": 750
+            }
+          ]
+        }
+      },
+      {
+        "no": 8,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 200,
+        "posZ": 60,
+        "prevNo": 1,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 30000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700410,
+              "name": "槍之符文",
+              "num": 210
+            },
+            {
+              "iId": 100310,
+              "name": "黃色符文",
+              "num": 250
+            },
+            {
+              "iId": 100410,
+              "name": "綠色符文",
+              "num": 250
+            }
+          ]
+        }
+      },
+      {
+        "no": 9,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 260,
+        "posZ": 75,
+        "prevNo": 8,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 50000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700610,
+              "name": "杖之符文",
+              "num": 210
+            },
+            {
+              "iId": 100110,
+              "name": "赤紅符文",
+              "num": 750
+            },
+            {
+              "iId": 100210,
+              "name": "橙色符文",
+              "num": 750
+            }
+          ]
+        }
+      },
+      {
+        "no": 10,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 155,
+        "posZ": 215,
+        "prevNo": 1,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 25000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700620,
+              "name": "杖之高階符文",
+              "num": 155
+            },
+            {
+              "iId": 100510,
+              "name": "青藍符文",
+              "num": 250
+            },
+            {
+              "iId": 100610,
+              "name": "紫色符文",
+              "num": 250
+            }
+          ]
+        }
+      },
+      {
+        "no": 11,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 195,
+        "posZ": 310,
+        "prevNo": 10,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 40000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700420,
+              "name": "槍之高階符文",
+              "num": 160
+            },
+            {
+              "iId": 100510,
+              "name": "青藍符文",
+              "num": 500
+            },
+            {
+              "iId": 100610,
+              "name": "紫色符文",
+              "num": 500
+            }
+          ]
+        }
+      },
+      {
+        "no": 12,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 210,
+        "posZ": 435,
+        "prevNo": 11,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 60000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700330,
+              "name": "斧之星辰符文",
+              "num": 105
+            },
+            {
+              "iId": 100120,
+              "name": "赤紅高階符文",
+              "num": 300
+            },
+            {
+              "iId": 100220,
+              "name": "橙色高階符文",
+              "num": 300
+            }
+          ]
+        }
+      },
+      {
+        "no": 13,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 235,
+        "posZ": 405,
+        "prevNo": 11,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 60000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700520,
+              "name": "弓之高階符文",
+              "num": 155
+            },
+            {
+              "iId": 100320,
+              "name": "黃色高階符文",
+              "num": 500
+            },
+            {
+              "iId": 100420,
+              "name": "綠色高階符文",
+              "num": 500
+            }
+          ]
+        }
+      },
+      {
+        "no": 14,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 270,
+        "posZ": 375,
+        "prevNo": 11,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 60000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700320,
+              "name": "斧之高階符文",
+              "num": 160
+            },
+            {
+              "iId": 100330,
+              "name": "黃色星辰符文",
+              "num": 350
+            },
+            {
+              "iId": 100430,
+              "name": "綠色星辰符文",
+              "num": 350
+            }
+          ]
+        }
+      },
+      {
+        "no": 15,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +3",
+        "baseVal": 3,
+        "posX": 90,
+        "posZ": 320,
+        "prevNo": 7,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 70000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700430,
+              "name": "槍之星辰符文",
+              "num": 105
+            },
+            {
+              "iId": 100120,
+              "name": "赤紅高階符文",
+              "num": 200
+            },
+            {
+              "iId": 100220,
+              "name": "橙色高階符文",
+              "num": 200
+            }
+          ]
+        }
+      },
+      {
+        "no": 16,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +4",
+        "baseVal": 4,
+        "posX": 105,
+        "posZ": 380,
+        "prevNo": 15,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 90000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700610,
+              "name": "杖之符文",
+              "num": 210
+            },
+            {
+              "iId": 100520,
+              "name": "青藍高階符文",
+              "num": 300
+            },
+            {
+              "iId": 100620,
+              "name": "紫色高階符文",
+              "num": 300
+            }
+          ]
+        }
+      },
+      {
+        "no": 17,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +4",
+        "baseVal": 4,
+        "posX": 120,
+        "posZ": 440,
+        "prevNo": 16,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 110000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700410,
+              "name": "槍之符文",
+              "num": 210
+            },
+            {
+              "iId": 100330,
+              "name": "黃色星辰符文",
+              "num": 150
+            },
+            {
+              "iId": 100430,
+              "name": "綠色星辰符文",
+              "num": 150
+            }
+          ]
+        }
+      },
+      {
+        "no": 18,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 215,
+        "posZ": 155,
+        "prevNo": 1,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 25000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700630,
+              "name": "杖之星辰符文",
+              "num": 105
+            },
+            {
+              "iId": 100110,
+              "name": "赤紅符文",
+              "num": 500
+            },
+            {
+              "iId": 100210,
+              "name": "橙色符文",
+              "num": 500
+            }
+          ]
+        }
+      },
+      {
+        "no": 19,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 310,
+        "posZ": 190,
+        "prevNo": 18,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 40000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700430,
+              "name": "槍之星辰符文",
+              "num": 105
+            },
+            {
+              "iId": 100310,
+              "name": "黃色符文",
+              "num": 500
+            },
+            {
+              "iId": 100410,
+              "name": "綠色符文",
+              "num": 500
+            }
+          ]
+        }
+      },
+      {
+        "no": 20,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 375,
+        "posZ": 255,
+        "prevNo": 19,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 60000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700520,
+              "name": "弓之高階符文",
+              "num": 160
+            },
+            {
+              "iId": 100520,
+              "name": "青藍高階符文",
+              "num": 200
+            },
+            {
+              "iId": 100620,
+              "name": "紫色高階符文",
+              "num": 200
+            }
+          ]
+        }
+      },
+      {
+        "no": 21,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 405,
+        "posZ": 225,
+        "prevNo": 19,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 60000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700510,
+              "name": "弓之符文",
+              "num": 210
+            },
+            {
+              "iId": 100520,
+              "name": "青藍高階符文",
+              "num": 500
+            },
+            {
+              "iId": 100620,
+              "name": "紫色高階符文",
+              "num": 500
+            }
+          ]
+        }
+      },
+      {
+        "no": 22,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 2,
+        "effectTypeName": "會心 +5",
+        "baseVal": 5,
+        "posX": 435,
+        "posZ": 195,
+        "prevNo": 19,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 60000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700310,
+              "name": "斧之符文",
+              "num": 210
+            },
+            {
+              "iId": 100530,
+              "name": "青藍星辰符文",
+              "num": 350
+            },
+            {
+              "iId": 100630,
+              "name": "紫色星辰符文",
+              "num": 350
+            }
+          ]
+        }
+      },
+      {
+        "no": 23,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +4",
+        "baseVal": 4,
+        "posX": 320,
+        "posZ": 90,
+        "prevNo": 9,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 70000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700620,
+              "name": "杖之高階符文",
+              "num": 160
+            },
+            {
+              "iId": 100320,
+              "name": "黃色高階符文",
+              "num": 200
+            },
+            {
+              "iId": 100420,
+              "name": "綠色高階符文",
+              "num": 200
+            }
+          ]
+        }
+      },
+      {
+        "no": 24,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +4",
+        "baseVal": 4,
+        "posX": 380,
+        "posZ": 105,
+        "prevNo": 23,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 90000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700530,
+              "name": "弓之星辰符文",
+              "num": 105
+            },
+            {
+              "iId": 100120,
+              "name": "赤紅高階符文",
+              "num": 500
+            },
+            {
+              "iId": 100220,
+              "name": "橙色高階符文",
+              "num": 500
+            }
+          ]
+        }
+      },
+      {
+        "no": 25,
+        "learnStatus": 1,
+        "type": 1,
+        "typeName": "參數系",
+        "effectType": 1,
+        "effectTypeName": "攻擊 +4",
+        "baseVal": 4,
+        "posX": 440,
+        "posZ": 120,
+        "prevNo": 24,
+        "learnCost": {
+          "crystalNum": 10,
+          "soul": 110000,
+          "itemCost": [
+            {
+              "iId": 12224004,
+              "name": "深淵撒旦耶爾的符文",
+              "num": 60
+            },
+            {
+              "iId": 700330,
+              "name": "斧之星辰符文",
+              "num": 105
+            },
+            {
+              "iId": 100530,
+              "name": "青藍星辰符文",
+              "num": 150
+            },
+            {
+              "iId": 100630,
+              "name": "紫色星辰符文",
+              "num": 150
+            }
+          ]
+        }
+      }
+    ],
+    "skillCnt": 25
+  },
+  "tutorial": 230,
+  "serverDate": "2021-07-21T19:43:04+08:00"
+}

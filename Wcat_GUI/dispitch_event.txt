@@ -1,8 +1,12 @@
 /ajax/explore/list2  派遣關卡LIST
+app=wcat&purchasetype=0
+
 
 /ajax/explore/updatedeck  派遣組隊 //無法最優組隊
+data=P4WYwKDsAcA8pBNTESRQnoJc4GBsmujZ25fmI2hxCMBuHvdCREaWs15e5UOZO7iivOrmmzvdP%2fpcs7BBpXI8aZt5k7vj3GCDXnfQq1u%2f13m0Nm8DX32kckObQ1F0itlm&app=wcat&purchasetype=0  //第一隊伍更改
 
 /ajax/explore/start  派遣開始
+data=dPIjaLvR9vyoVT%2bUfs8PBpMeDwGCbWJN%2bspp1fW0GgQeRmUCaUryGrZK4%2beYbOhAv9owFDb96zX8YsA1aMfQYmPEUA9QM5d3zwhKcD2ECUgkUUEvT5bVK3j84CdlcNzb&app=wcat&purchasetype=0
 
 /ajax/explore/complete  派遣等待時間結束
 

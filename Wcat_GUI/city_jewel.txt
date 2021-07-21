@@ -1,0 +1,3 @@
+https://app.wcproject.so-net.tw/ajax/city/jewel-generator-generate    //取得寶石
+
+https://app.wcproject.so-net.tw/ajax/city/jewel-generator-info     //剩餘時間

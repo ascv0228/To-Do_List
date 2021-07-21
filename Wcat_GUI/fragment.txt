@@ -1,0 +1,10 @@
+https://app.wcproject.so-net.tw/ajax/fragment/info                  //所有石板
+data=D4dJlxbzLxkZ0iIWvJOTM02aGUmMlVLi8i4OXOyupzQ%3d&app=wcat&purchasetype=0
+
+https://app.wcproject.so-net.tw/ajax/fragment/learnskills           //石板升級
+data=D4dJlxbzLxkZ0iIWvJOTMwATPi2zioesCTqOLjYNmYppIPhyJHFpze8f%2fUKmD5SnZSMRscAuqJejVAifsceS77Bh4O3yIT0x3pSVj9yau5dJvWJJtxqsLGcErjsqc8l4&app=wcat&purchasetype=0
+
+
+
+
+

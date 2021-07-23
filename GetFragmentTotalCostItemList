@@ -1,0 +1,26 @@
+        public static List<FragmentInfoResponseActionData.ItemCost> GetFragmentTotalCostItemList(List<FragmentInfoResponseActionData.ItemCost> Items)
+        {
+            Console.WriteLine("執行GetFragmentTotalCostItemListt");
+            var tmp = new Dictionary<int, (string name, int num)>();
+
+            foreach (var elem in Items)
+            {
+                if (!tmp.ContainsKey(elem.iId))
+                {
+                    // Console.WriteLine($"加入{(elem.iId, elem.name)}");
+                    tmp.Add(elem.iId,(elem.name, elem.num));
+                }
+                else
+                {
+                    tmp[elem.iId] = (elem.name, tmp[elem.iId].num+elem.num);
+                }
+            }
+            var OutputList = new List<FragmentInfoResponseActionData.ItemCost>();
+            foreach (var elem in tmp)
+            {
+                OutputList.Add(new FragmentInfoResponseActionData.ItemCost { iId = elem.Key, name = elem.Value.name, num = elem.Value.num });
+            }
+            OutputList =OutputList.OrderBy(i => i.iId).ToList();
+            Console.WriteLine("完成GetFragmentTotalCostItemList");
+            return OutputList;
+        }

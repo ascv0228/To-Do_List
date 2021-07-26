@@ -1,0 +1,27 @@
+縮時票卷  :  result.items[n]."cName"= "時短チケット",
+
+加倍書  :  result.items[n]."itemType" =  3,   2倍
+           result.items[n]."itemType" =  4,   2倍
+           result.items[n]."itemType" =  5,   2倍
+
+福袋  :  result.items[n]."cName": "福袋",
+            
+轉職珠 : result.advancedJobItemInfo.items[n]."name": "轉職珠",
+
+
+彩虹晶磚  :  result.items[n]. "iId": 1200110,
+
+
+青藍稜鏡石、綠  result.items[n]."cName": "稜鏡石",
+
+
+============================================================
+武器
+合成值      combine.exp
+武器ID      "uwId",
+level 、 levelMax
+稀有度   rar
+<進化>
+<職業>
+
+

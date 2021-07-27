@@ -17,7 +17,7 @@
 
 ============================================================
 武器
-合成值      combine.exp
+合成值      result.weapons[n].combine.exp
 武器ID      "uwId",
 level 、 levelMax
 稀有度   rar

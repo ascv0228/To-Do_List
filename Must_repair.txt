@@ -1,25 +1,29 @@
 /******************PATH******************/
-角色升級  ~100   ~150
-角色轉職
-角色技覺
-角色突破
-角色上鎖
-角色EX星盤
+角色升級  ~100      //UnitAction.cs > /ajax/skilltree/learnskills
+         ~150      //
+角色轉職            //UnitAction.cs > /ajax/deck/advanced-job
+角色技覺 
+角色突破          //UnitAction.cs > /ajax/deck/exceed
+角色上鎖            //    "/ajax/deck/updatecardfavorite"
+角色EX星盤          //UnitAction.cs > /ajax/fragment/tree
 =====================
-武器強化
-武器合成
-武器交換
-技能變換
-武器上鎖
-放入保管庫
-保管庫取出
+擁有武器、飾品列表   // https://app.wcproject.so-net.tw/ajax/deck/combineweaponlist
+武器強化           //EquiomentAction.cs  
+武器合成            //EquiomentAction.cs  > https://app.wcproject.so-net.tw/ajax/deck/combineweapon2
+武器交換       可交換武器    //   ajax.deck.weapontradelist
+             執行交換      //    ajax.deck.exeweapontrade2
+技能變換           //EquiomentAction.cs  > "/ajax/deck/execombineskill2"
+          技能上鎖       //ajax.deck.combine-skill-lock
+武器上鎖               //      /ajax/deck/update-weapon-favorite2
+放入保管庫             //      /ajax/weapon-warehouse/move
+保管庫取出            //      /ajax/weapon-warehouse/move
 =====================
-飾品上鎖
-飾品變賣
+飾品上鎖                //    /ajax/deck/update-accessory-favorite2
+飾品變賣                  //    /ajax/deck/sell  (同武器)
 
-放入保管庫          ☆☆☆☆☆☆☆
-保管庫取出          ☆☆☆☆☆☆☆
-隨機飾品 技能選擇    ☆☆☆☆☆☆☆
+放入保管庫          ☆☆☆☆☆☆☆   (同武器)
+保管庫取出          ☆☆☆☆☆☆☆   (同武器)
+隨機飾品 技能選擇    ☆☆☆☆☆☆☆   //   /ajax/random-drop-reward/receive
 =====================
 石板升級
 石板上鎖

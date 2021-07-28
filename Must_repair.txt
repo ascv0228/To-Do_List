@@ -1,8 +1,9 @@
 /******************PATH******************/
 角色升級  ~100      //UnitAction.cs > /ajax/skilltree/learnskills
-         ~150      //
+         ~150      //   /ajax/high-level-card-skill-tree/learn-skill
 角色轉職            //UnitAction.cs > /ajax/deck/advanced-job
-角色技覺 
+角色技覺    列表     //    /ajax/skill-upgrade/list
+           執行升級  //    /ajax/skill-upgrade/level-up
 角色突破          //UnitAction.cs > /ajax/deck/exceed
 角色上鎖            //    "/ajax/deck/updatecardfavorite"
 角色EX星盤          //UnitAction.cs > /ajax/fragment/tree

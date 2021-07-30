@@ -1,0 +1,14 @@
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wcat.Action.QuestAction.Complete(Quest quest, RootObject responseData, Int32 routeId, Power power, List`1 powerItems, Boolean isDungeon, Boolean hide) in D:\Wcat\Wcat\src\Action\QuestAction\QuestAction.cs:line 329
+   at Wcat.Action.QuestAction.SendQuest(Quest quest, SendOption option, Power power, List`1 powerItems, Boolean isDungeon) in D:\Wcat\Wcat\src\Action\QuestAction\QuestAction.cs:line 548
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wcat.Action.TradeAction.ExchangeSoulStone(Int32 count) in D:\Wcat\Wcat\src\Action\CityAction\TradeAction.cs:line 80
+   at Wcat.Action.QuestAction.SendQuest(Quest quest, SendOption option, Power power, List`1 powerItems, Boolean isDungeon) in D:\Wcat\Wcat\src\Action\QuestAction\QuestAction.cs:line 617
+   at Wcat.Action.QuestAction.SendQuest(Quest quest, SendOption option, Power power, List`1 powerItems, Boolean isDungeon) in D:\Wcat\Wcat\src\Action\QuestAction\QuestAction.cs:line 548
+   at Wcat.PageAction.PageQuestAction.ControlQuestAction(List`1 quests, SendOption option) in D:\Wcat\Wcat\src\PageAction\PageQuestAction.cs:line 249
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wcat.Action.QuestAction.Complete(Quest quest, RootObject responseData, Int32 routeId, Power power, List`1 powerItems, Boolean isDungeon, Boolean hide) in D:\Wcat\Wcat\src\Action\QuestAction\QuestAction.cs:line 329
+   at Wcat.Action.QuestAction.SendQuest(Quest quest, SendOption option, Power power, List`1 powerItems, Boolean isDungeon) in D:\Wcat\Wcat\src\Action\QuestAction\QuestAction.cs:line 548
+   at Wcat.PageAction.PageQuestAction.ControlQuestAction(List`1 quests, SendOption option) in D:\Wcat\Wcat\src\PageAction\PageQuestAction.cs:line 249
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wcat.Action.TradeAction.ExchangeSoulStone(Int32 count) in D:\Wcat\Wcat\src\Action\CityAction\TradeAction.cs:line 80

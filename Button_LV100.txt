@@ -1,0 +1,49 @@
+            if (ItemCardThread?.IsAlive ?? false) return;
+
+            autoLevelUp100.IsEnabled = false;
+            // btnEndAction.IsEnabled = true;
+
+            ItemCardThread = new Thread(() =>
+            {
+                ItemCardHandler.GlobalTryCatch(() =>
+                {
+                    var res = TroopAction.UpdateDeck(UserData.deck).result;
+                    TroopAction.UpdateMapTable(res.cards, res.decks[9].units);
+                    Buffers.pageHomeMsgs.Add("REFRESH_DECK_LIST");
+
+                    foreach (var infos in UserData.cardsInfo)
+                    {
+                        if (infos.lv >= 100) continue;
+
+                        try
+                        {
+                            var flag = UnitAction.LearnSkillsToMax(infos.ucId);
+
+                            if (flag)
+                            {
+                                ItemCardWriter.WriteLine($"升級{infos.name}成功");
+                            }
+                            else
+                            {
+                                ItemCardWriter.WriteLine($"升級{infos.name}失敗");
+                            }
+                        }
+                        catch (NullReferenceException)
+                        {
+                            ItemCardWriter.WriteLine($"升級{infos.name}時發生錯誤");
+                        }
+                        catch (ArgumentNullException)
+                        {
+                            ItemCardWriter.WriteLine($"升級{infos.name}時發生錯誤");
+                        }
+                    }
+                });
+
+                Dispatcher.Invoke(() =>
+                {
+                    autoLevelUp100.IsEnabled = true;
+                    // btnEndAction.IsEnabled = false;
+                });
+            });
+
+            ItemCardThread.Start();

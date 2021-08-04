@@ -1,0 +1,3 @@
+必須修改 :
+    AutoTalkRead
+    AutoExceed
